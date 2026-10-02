@@ -1,1 +1,1 @@
-# lesson_2_coppeliasim
+# lecture_2_coppeliasim
