@@ -1,1 +1,1 @@
-# lecture_2_coppeliasim
+# coppeliaSim_lectures_2026
