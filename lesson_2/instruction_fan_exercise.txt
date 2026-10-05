@@ -1,0 +1,15 @@
+TEMPERATURE SENSOR:
+    The sensor should measure a new temperature every 30 seconds, cycling through
+    a predefined sequence of temperature values.
+    The measured temperature must be published as 'room_temperature' and printed
+    to the console.
+
+    room_temperatures = [22.0, 24.0, 26.0, 28.0, 30.0]
+
+FAN:
+    The fan should read the current room temperature and compare it with a
+     predefined temperature threshold.
+    
+    If the temperature is above the threshold and the fan is powered on and
+     the fan should rotate at the selected speed. 
+    Otherwise, the fan should remain stopped.
